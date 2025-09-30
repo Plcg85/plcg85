@@ -13,7 +13,7 @@ Sistema de control y gestión para instalaciones térmicas. Enfocado en eficienc
 Aplicación de gestión financiera personal. Diseñada para ofrecer claridad, control y seguridad en el manejo de gastos e ingresos.
 
 ### 🧠 Resizen (Proyecto estrella)
-SaaS multiplataforma ya en uso por empresas.  
+SaaS multiplataforma ya en uso por empresas. (Es por esto que el código no es accesible ya que es un programa de pago).  
 - **Backend:** Laravel  
 - **Frontend:** Flutter  
 - **Plataformas:** Android, iOS, Windows  
@@ -32,14 +32,13 @@ SaaS multiplataforma ya en uso por empresas.
 | Python               | Scripting / Automatización |
 | Java                 | Experiencia previa / Integraciones |
 
-> Mi enfoque principal está en el desarrollo backend, con especial atención a la seguridad, rendimiento y escalabilidad.
+> Mi enfoque principal está en el desarrollo backend, con especial atención al rendimiento y la escalabilidad.
 
 ---
 
 ## 📈 Filosofía de desarrollo
 
 - Código limpio y modular
-- Automatización de despliegues
 - Arquitectura orientada a servicios
 - Iteración rápida con enfoque MVP
 - Compatibilidad multiplataforma desde el diseño
@@ -48,7 +47,7 @@ SaaS multiplataforma ya en uso por empresas.
 
 ## 📬 Contacto
 
-Puedes encontrarme aquí en GitHub, donde comparto proyectos, ideas y herramientas pensadas para desarrolladores exigentes y entornos reales.
+📧 **Correo:** [plcgsoft@gmail.com](mailto:plcgsoft@gmail.com)  
 
 ---
 
