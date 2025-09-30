@@ -45,6 +45,24 @@ SaaS multiplataforma ya en uso por empresas. (Es por esto que el código no es a
 
 ---
 
+## 🎓 Formación académica
+
+- 📚 **Bachillerato**  
+  IES Emilio Muñoz, Cogollos Vega (Granada)
+
+- 💻 **Ciclo Formativo de Grado Superior: Desarrollo de Aplicaciones Multiplataforma (DAM)**  
+  MEDAC — Nota media: **9.77**
+
+- 🧠 **Curso especializado: Laravel de cero a experto**  
+  Impartido por Víctor Arana — 23 horas de formación intensiva
+
+- 🔍 **Aprendizaje autodidacta**  
+  Amplia experiencia adquirida por cuenta propia en desarrollo Android (Java/Kotlin) y scripting en Python
+
+---
+
+
+
 ## 📬 Contacto
 
 📧 **Correo:** [plcgsoft@gmail.com](mailto:plcgsoft@gmail.com)  
