@@ -1,6 +1,6 @@
 # 👨‍💻 Pedro Luis Cabrera Gómez
 
-Desarrollador de aplicaciones multiplataforma con sólida experiencia previa en desarrollo backend, arquitectura de sistemas y automatización de flujos. Me especializo en crear soluciones robustas, escalables y mantenibles, combinando eficiencia técnica con una visión clara del producto.
+Desarrollador de aplicaciones multiplataforma freelance con experiencia previa en desarrollo backend, arquitectura de sistemas y automatización de flujos. Me especializo en crear soluciones robustas, escalables y mantenibles, combinando eficiencia técnica con una visión clara del producto.
 
 ---
 
