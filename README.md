@@ -28,7 +28,7 @@ SaaS multiplataforma ya en uso por empresas. (Es por esto que el código no es a
 |----------------------|-----------------|
 | Laravel / PHP        | Backend         |
 | MySQL                | Bases de datos  |
-| Flutter              | UI multiplataforma |
+| Dart(Flutter)        | UI multiplataforma |
 | Python               | Scripting / Automatización |
 | Java                 | Experiencia previa / Integraciones |
 
