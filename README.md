@@ -12,7 +12,7 @@ Sistema de control y gestión para instalaciones térmicas. Enfocado en eficienc
 ### 📊 Mis Cuentas
 Aplicación de gestión financiera personal. Diseñada para ofrecer claridad, control y seguridad en el manejo de gastos e ingresos.
 
-### 🧠 Resizen (Proyecto estrella)
+### 🧠 Resizen (Proyecto comercial)
 SaaS multiplataforma ya en uso por empresas. (Es por esto que el código no es accesible ya que es un programa de pago).  
 - **Backend:** Laravel  
 - **Frontend:** Flutter  
