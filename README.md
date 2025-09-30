@@ -57,7 +57,8 @@ SaaS multiplataforma ya en uso por empresas. (Es por esto que el código no es a
   Impartido por Víctor Arana — 23 horas de formación intensiva
 
 - 🔍 **Aprendizaje autodidacta**  
-  Amplia experiencia adquirida por cuenta propia en desarrollo Android (Java/Kotlin) y scripting en Python
+  Amplia experiencia adquirida por cuenta propia en desarrollo Android (Java) para la aplicación Mis Cuentas
+  y en Python con el que se hizo la aplicación de Caldera primigenia (Caldera 2024 está hecho en java). 
 
 ---
 
