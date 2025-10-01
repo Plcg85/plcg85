@@ -67,7 +67,7 @@ SaaS multiplataforma ya en uso por empresas. (Es por esto que el código no es a
 
 - 🔍 **Aprendizaje autodidacta**  
   Amplia experiencia adquirida por cuenta propia en desarrollo Android (Java) para la aplicación Mis Cuentas
-  y en Python con el que se hizo la aplicación de Caldera primigenia (Caldera 2024 está hecho en java). 
+  y en Python con el que se hizo la aplicación de Caldera inicial allá por 2013 (Caldera 2024 está hecho en java). 
 
 ---
 
