@@ -7,9 +7,12 @@ Desarrollador de aplicaciones multiplataforma freelance con experiencia previa e
 ## 🚀 Proyectos destacados
 
 ### 🔧 Caldera2024 
+
 Enlace al proyecto: https://github.com/Plcg85/Caldera2024
+
 Sistema de control y gestión para instalaciones con calderas de hueso de aceituna. Enfocado en eficiencia energética y monitorización remota.
 Es una actualización hecha en java del mismo programa en python.
+
 Enlace a la versión anterior: https://github.com/Plcg85/Caldera
 
 ### 📊 Mis Cuentas
