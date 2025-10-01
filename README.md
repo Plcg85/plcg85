@@ -6,11 +6,16 @@ Desarrollador de aplicaciones multiplataforma freelance con experiencia previa e
 
 ## 🚀 Proyectos destacados
 
-### 🔧 Caldera2024 https://github.com/Plcg85/Caldera2024
-Sistema de control y gestión para instalaciones térmicas. Enfocado en eficiencia energética y monitorización remota.
+### 🔧 Caldera2024 
+Enlace al proyecto: https://github.com/Plcg85/Caldera2024
+Sistema de control y gestión para instalaciones con calderas de hueso de aceituna. Enfocado en eficiencia energética y monitorización remota.
+Es una actualización hecha en java del mismo programa en python.
+Enlace a la versión anterior: https://github.com/Plcg85/Caldera
 
 ### 📊 Mis Cuentas
 Aplicación de gestión financiera personal. Diseñada para ofrecer claridad, control y seguridad en el manejo de gastos e ingresos.
+Opción de copia de seguridad, ingresos y gastos fijos, puntuales, estadísticas graficas y mucho más.
+Enlace al proyecto: https://github.com/Plcg85/MisCuentas
 
 ### 🧠 Resizen (Proyecto comercial)
 SaaS multiplataforma ya en uso por empresas. (Es por esto que el código no es accesible ya que es un programa de pago).  
