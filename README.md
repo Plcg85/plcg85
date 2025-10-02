@@ -27,7 +27,8 @@ Enlace a la versión anterior: https://github.com/Plcg85/Caldera
 
 ### 📊 Mis Cuentas
 Aplicación de gestión financiera personal. Diseñada para ofrecer claridad, control y seguridad en el manejo de gastos e ingresos.
-Opción de copia de seguridad, ingresos y gastos fijos, puntuales, estadísticas graficas y mucho más.
+Opción de copia de seguridad, ingresos y gastos fijos, puntuales, estadísticas graficas y mucho más. Esta aplicación es de 2013 aunque 
+la interfaz parece antigua, sigue funcionando a día de hoy en el último sistema operativo android.
 
 Enlace al proyecto: https://github.com/Plcg85/MisCuentas
 
