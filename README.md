@@ -75,8 +75,8 @@ Enlace al proyecto: https://github.com/Plcg85/MisCuentas
 - 🤖 Curso introductorio: Inteligencia Artificial aplicada al desarrollo
   Impartido por referentes como Brais Moure, AristiDev, Carlos Santana, Juan José López y Daniel Rodríguez — 6 horas de formación práctica con enfoque en herramientas reales y casos de uso actuales
 
--📱 Curso práctico: Desarrollo de apps con Flutter
-  Impartido por AristiDev — 10 horas de formación intensiva centrada en la creación de interfaces modernas, consumo de apis...
+- 📱 Curso práctico: Desarrollo de apps con Flutter
+  Impartido por AristiDev — 10 horas de formación intensiva centrada en la creación de interfaces modernas, consumo de APIs y buenas prácticas multiplataforma
   
 ---
 
