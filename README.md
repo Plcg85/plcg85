@@ -1,18 +1,22 @@
 # 👨‍💻 Pedro Luis Cabrera Gómez
 
 Soy desarrollador freelance de aplicaciones multiplataforma, especializado en backend, arquitectura de sistemas y automatización de flujos de trabajo. Mi experiencia se ha forjado tanto en mis estudios de Desarrollo de Aplicaciones Multiplataforma como en los proyectos que ya he completado, enfrentando desafíos reales y diseñando soluciones que destacan por su robustez, escalabilidad y facilidad de mantenimiento.
+
 Además de programar, tengo conocimientos sólidos en hardware y reparación de PCs, lo que me permite comprender el sistema desde sus fundamentos físicos hasta su capa más abstracta. Trabajo cómodamente en entornos Linux y Windows, y tengo servidores configurados con Nginx y Apache para mis propios desarrollos, optimizados para entornos tanto de producción como de pruebas.
-Me gusta combinar eficiencia técnica con una visión clara del producto, cuidando cada detalle del rendimiento y de la experiencia del usuario final
+
+Me gusta combinar eficiencia técnica con una visión clara del producto, cuidando cada detalle del rendimiento y de la experiencia del usuario final.
 
 ---
 
 ## 🚀 Proyectos destacados
 
-## 🧠 Resizen — Proyecto comercial en activo
+---
+
+### 🧠 Resizen — Proyecto comercial en activo
 
 **Aplicación SaaS multiplataforma** actualmente en uso por empresas, desarrollada para optimizar la gestión de recursos y registros en residencias de mayores. Diseñada para ofrecer acceso seguro desde cualquier dispositivo, permite al personal autorizado controlar registros, recursos y roles de forma eficiente.
 
-### 🛠️ Tecnologías utilizadas
+#### 🛠️ Tecnologías utilizadas
 
 - **Backend:** Laravel  
 - **Frontend:** Flutter  
@@ -20,33 +24,37 @@ Me gusta combinar eficiencia técnica con una visión clara del producto, cuidan
 - **Arquitectura:** API RESTful, autenticación segura, segmentación por roles  
 - **Infraestructura:** Servidor VPS con Nginx optimizado para producción
 
-### 🔧 Caldera2024 
+---
 
-Enlace al proyecto: https://github.com/Plcg85/Caldera2024
+### 🔧 Caldera2024 — Control de calderas
 
-Sistema de control y gestión para instalaciones con calderas de hueso de aceituna. Enfocado en eficiencia energética y monitorización remota.
-Es una actualización hecha en java del mismo programa en python (por eso encontrarás otro proyecto llamado caldera).
+📎 [Repositorio Caldera2024](https://github.com/Plcg85/Caldera2024)  
+📎 [Versión anterior en Python](https://github.com/Plcg85/Caldera)
 
-Enlace a la versión anterior: https://github.com/Plcg85/Caldera
+Sistema de control y gestión para instalaciones con calderas de hueso de aceituna. Enfocado en eficiencia energética y monitorización remota.  
+Es una actualización hecha en Java del mismo programa originalmente desarrollado en Python.
 
-### 📊 Mis Cuentas
-Aplicación de gestión financiera personal. Diseñada para ofrecer claridad, control y seguridad en el manejo de gastos e ingresos.
-Opción de copia de seguridad, ingresos y gastos fijos, puntuales, estadísticas graficas y mucho más. Esta aplicación es de 2013 aunque 
-la interfaz parece antigua, sigue funcionando a día de hoy en el último sistema operativo android.
+---
 
-Enlace al proyecto: https://github.com/Plcg85/MisCuentas
+### 📊 Mis Cuentas — Finanzas personales
+
+📎 [Repositorio Mis Cuentas](https://github.com/Plcg85/MisCuentas)
+
+Aplicación de gestión financiera personal. Diseñada para ofrecer claridad, control y seguridad en el manejo de gastos e ingresos.  
+Incluye funciones como copia de seguridad, ingresos y gastos fijos/puntuales, estadísticas gráficas y más.  
+Aunque fue desarrollada en 2013, sigue funcionando en las versiones actuales de Android.
 
 ---
 
 ## 🛠️ Stack tecnológico
 
-| Lenguaje / Framework | Especialización |
-|----------------------|-----------------|
-| Laravel / PHP        | Backend         |
-| MySQL                | Bases de datos  |
-| Dart(Flutter)        | UI multiplataforma |
-| Python               | Scripting / Automatización |
-| Java                 | Experiencia previa / Integraciones |
+| Lenguaje / Framework | Especialización           |
+|----------------------|---------------------------|
+| Laravel / PHP        | Backend                   |
+| MySQL                | Bases de datos            |
+| Dart (Flutter)       | UI multiplataforma        |
+| Python               | Scripting / Automatización|
+| Java                 | Experiencia previa        |
 
 > Mi enfoque principal está en el desarrollo backend, con especial atención al rendimiento y la escalabilidad.
 
@@ -54,9 +62,9 @@ Enlace al proyecto: https://github.com/Plcg85/MisCuentas
 
 ## 📈 Filosofía de desarrollo
 
-- Código limpio y modular
-- Arquitectura orientada a servicios
-- Iteración rápida con enfoque MVP
+- Código limpio y modular  
+- Arquitectura orientada a servicios  
+- Iteración rápida con enfoque MVP  
 - Compatibilidad multiplataforma desde el diseño
 
 ---
@@ -73,22 +81,20 @@ Enlace al proyecto: https://github.com/Plcg85/MisCuentas
   Impartido por Víctor Arana — 23 horas de formación intensiva
 
 - 🔍 **Aprendizaje autodidacta**  
-  Amplia experiencia adquirida por cuenta propia en desarrollo Android (Java) para la aplicación Mis Cuentas
-  y en Python con el que se hizo la aplicación de Caldera inicial allá por 2013 (Caldera 2024 está hecho en java). 
+  Amplia experiencia adquirida por cuenta propia en desarrollo Android (Java) para la aplicación Mis Cuentas  
+  y en Python con el que se hizo la aplicación de Caldera inicial allá por 2013 (Caldera2024 está hecho en Java).
 
-- 🤖 Curso introductorio: Inteligencia Artificial aplicada al desarrollo
+- 🤖 **Curso introductorio: Inteligencia Artificial aplicada al desarrollo**  
   Impartido por referentes como Brais Moure, AristiDev, Carlos Santana, Juan José López y Daniel Rodríguez — 6 horas de formación práctica con enfoque en herramientas reales y casos de uso actuales
 
-- 📱 Curso práctico: Desarrollo de apps con Flutter
+- 📱 **Curso práctico: Desarrollo de apps con Flutter**  
   Impartido por AristiDev — 10 horas de formación intensiva centrada en la creación de interfaces modernas, consumo de APIs y buenas prácticas multiplataforma
-  
+
 ---
-
-
 
 ## 📬 Contacto
 
-📧 **Correo:** [plcgsoft@gmail.com](mailto:plcgsoft@gmail.com)  
+📧 **Correo:** [plcgsoft@gmail.com](mailto:plcgsoft@gmail.com)
 
 ---
 
