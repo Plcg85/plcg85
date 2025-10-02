@@ -77,6 +77,7 @@ Enlace al proyecto: https://github.com/Plcg85/MisCuentas
 
 -📱 Curso práctico: Desarrollo de apps con Flutter
   Impartido por AristiDev — 10 horas de formación intensiva centrada en la creación de interfaces modernas, consumo de apis...
+  
 ---
 
 
