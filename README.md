@@ -13,7 +13,7 @@ SaaS multiplataforma ya en uso por empresas. (Es por esto que el código no es a
 - **Backend:** Laravel  
 - **Frontend:** Flutter  
 - **Plataformas:** Android, iOS, Windows  
-- **Funcionalidad:** Gestión inteligente de recursos, accesible desde cualquier dispositivo.  
+- **Funcionalidad:** Gestión inteligente de recursos y registros para una residencia de mayores, accesible desde cualquier dispositivo.  
 - **Arquitectura:** API RESTful, autenticación segura, despliegue automatizado.
 
 ### 🔧 Caldera2024 
