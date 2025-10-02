@@ -31,7 +31,7 @@ Me gusta combinar eficiencia técnica con una visión clara del producto, cuidan
 📎 [Repositorio Caldera2024](https://github.com/Plcg85/Caldera2024)  
 📎 [Versión anterior en Python](https://github.com/Plcg85/Caldera)
 
-Sistema de control y gestión para instalaciones con calderas de hueso de aceituna. Enfocado en eficiencia energética y monitorización remota.  
+Sistema de control y gestión para instalaciones con calderas de hueso de aceituna y biomasa. Enfocado en eficiencia energética y monitorización remota.  
 Es una actualización hecha en Java del mismo programa originalmente desarrollado en Python.
 
 ---
