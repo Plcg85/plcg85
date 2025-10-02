@@ -1,10 +1,20 @@
 # 👨‍💻 Pedro Luis Cabrera Gómez
 
-Desarrollador de aplicaciones multiplataforma freelance con experiencia previa en desarrollo backend, arquitectura de sistemas y automatización de flujos. Me especializo en crear soluciones robustas, escalables y mantenibles, combinando eficiencia técnica con una visión clara del producto.
+Soy desarrollador freelance de aplicaciones multiplataforma, especializado en backend, arquitectura de sistemas y automatización de flujos de trabajo. Mi experiencia se ha forjado tanto en mis estudios de Desarrollo de Aplicaciones Multiplataforma como en los proyectos que ya he completado, enfrentando desafíos reales y diseñando soluciones que destacan por su robustez, escalabilidad y facilidad de mantenimiento.
+Además de programar, tengo conocimientos sólidos en hardware y reparación de PCs, lo que me permite comprender el sistema desde sus fundamentos físicos hasta su capa más abstracta. Trabajo cómodamente en entornos Linux y Windows, y tengo servidores configurados con Nginx y Apache para mis propios desarrollos, optimizados para entornos tanto de producción como de pruebas.
+Me gusta combinar eficiencia técnica con una visión clara del producto, cuidando cada detalle del rendimiento y de la experiencia del usuario final
 
 ---
 
 ## 🚀 Proyectos destacados
+
+### 🧠 Resizen (Proyecto comercial en activo)
+SaaS multiplataforma ya en uso por empresas. (Es por esto que el código no es accesible ya que es un programa de pago).  
+- **Backend:** Laravel  
+- **Frontend:** Flutter  
+- **Plataformas:** Android, iOS, Windows  
+- **Funcionalidad:** Gestión inteligente de recursos, accesible desde cualquier dispositivo.  
+- **Arquitectura:** API RESTful, autenticación segura, despliegue automatizado.
 
 ### 🔧 Caldera2024 
 
@@ -20,14 +30,6 @@ Aplicación de gestión financiera personal. Diseñada para ofrecer claridad, co
 Opción de copia de seguridad, ingresos y gastos fijos, puntuales, estadísticas graficas y mucho más.
 
 Enlace al proyecto: https://github.com/Plcg85/MisCuentas
-
-### 🧠 Resizen (Proyecto comercial)
-SaaS multiplataforma ya en uso por empresas. (Es por esto que el código no es accesible ya que es un programa de pago).  
-- **Backend:** Laravel  
-- **Frontend:** Flutter  
-- **Plataformas:** Android, iOS, Windows  
-- **Funcionalidad:** Gestión inteligente de recursos, accesible desde cualquier dispositivo.  
-- **Arquitectura:** API RESTful, autenticación segura, despliegue automatizado.
 
 ---
 
@@ -69,6 +71,11 @@ SaaS multiplataforma ya en uso por empresas. (Es por esto que el código no es a
   Amplia experiencia adquirida por cuenta propia en desarrollo Android (Java) para la aplicación Mis Cuentas
   y en Python con el que se hizo la aplicación de Caldera inicial allá por 2013 (Caldera 2024 está hecho en java). 
 
+- 🤖 Curso introductorio: Inteligencia Artificial aplicada al desarrollo
+  Impartido por referentes como Brais Moure, AristiDev, Carlos Santana, Juan José López y Daniel Rodríguez — 6 horas de formación práctica con enfoque en herramientas reales y casos de uso actuales
+
+-📱 Curso práctico: Desarrollo de apps con Flutter
+  Impartido por AristiDev — 10 horas de formación intensiva centrada en la creación de interfaces modernas, consumo de apis...
 ---
 
 
