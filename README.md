@@ -8,12 +8,17 @@ Me gusta combinar eficiencia técnica con una visión clara del producto, cuidan
 
 ## 🚀 Proyectos destacados
 
-🧠 Resizen — Proyecto comercial en activo
-Aplicación SaaS multiplataforma actualmente en uso por empresas, desarrollada para optimizar la gestión de recursos y registros en residencias de mayores. Diseñada para ofrecer acceso seguro desde cualquier dispositivo, permite al personal autorizado controlar registros, recursos y roles de forma eficiente.
-• 	Backend: Laravel
-• 	Frontend: Flutter
-• 	Plataformas: Android, iOS, Windows
-• 	Arquitectura: API RESTful, autenticación segura, segmentación por roles, servidor VPS con Nginx optimizado para producción.
+## 🧠 Resizen — Proyecto comercial en activo
+
+**Aplicación SaaS multiplataforma** actualmente en uso por empresas, desarrollada para optimizar la gestión de recursos y registros en residencias de mayores. Diseñada para ofrecer acceso seguro desde cualquier dispositivo, permite al personal autorizado controlar registros, recursos y roles de forma eficiente.
+
+### 🛠️ Tecnologías utilizadas
+
+- **Backend:** Laravel  
+- **Frontend:** Flutter  
+- **Plataformas:** Android, iOS, Windows  
+- **Arquitectura:** API RESTful, autenticación segura, segmentación por roles  
+- **Infraestructura:** Servidor VPS con Nginx optimizado para producción
 
 ### 🔧 Caldera2024 
 
