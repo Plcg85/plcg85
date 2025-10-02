@@ -21,7 +21,7 @@ SaaS multiplataforma ya en uso por empresas. (Es por esto que el código no es a
 Enlace al proyecto: https://github.com/Plcg85/Caldera2024
 
 Sistema de control y gestión para instalaciones con calderas de hueso de aceituna. Enfocado en eficiencia energética y monitorización remota.
-Es una actualización hecha en java del mismo programa en python.
+Es una actualización hecha en java del mismo programa en python (por eso encontrarás otro proyecto llamado caldera).
 
 Enlace a la versión anterior: https://github.com/Plcg85/Caldera
 
